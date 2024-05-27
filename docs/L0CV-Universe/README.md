@@ -91,13 +91,13 @@
     </tr>
     <tr>
         <td>
-            <a href="./DemoDays.md"><img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/demoday.png" title="L0CV Demo Day" width=300></a>
+            <a href="./DemoDays.md"><img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/demoday.png" title="L0CV Demo Day" width=300></a>
         </td>
         <td>
-            <a href="./Challenges.md"><img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/challenges.png" title="L0CV Challenges" width=300></a>
+            <a href="./Challenges.md"><img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/challenges.png" title="L0CV Challenges" width=300></a>
         </td>
         <td>
-            <a href="./MeetUp.md"><img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/meetup.png" title="L0CV Meet Up" width=300></a>
+            <a href="./MeetUp.md"><img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/meetup.png" title="L0CV Meet Up" width=300></a>
         </td>
     </tr>
     </tbody>
@@ -105,7 +105,7 @@
 
 <br>
 <div>
-    <p align="center"><img  src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/L0CV.png" width=600 alt="L0CV architecture" title="L0CV architecture"></p>
+    <p align="center"><img  src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/L0CV.png" width=600 alt="L0CV architecture" title="L0CV architecture"></p>
 </div>
 
 <br>
@@ -115,11 +115,11 @@
 
 <br>
 <div>
-    <p align="center"><img  src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/l0cv-architecture.png" alt="L0CV architecture" title="L0CV architecture"></p>
+    <p align="center"><img  src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/l0cv-architecture.png" alt="L0CV architecture" title="L0CV architecture"></p>
     <p align="right">
         <details><summary><b>版权所有，🈲️ 止商用</b></summary>
-        * This image uses independently developed image watermarking technology for copyright certification, <a href="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/arch-encryption.png?raw=true" target="_blank"><b>as shown in the figure</b></a>.
-        <br>本图片采用作者独立研发的图片水印技术作为版权认证 <kbd>CC-BY-NC 4.0</kbd>（署名可任意转载），<a href="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/arch-encryption.png?raw=true" target="_blank"><b>点击查看</b></a>。
+        * This image uses independently developed image watermarking technology for copyright certification, <a href="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/arch-encryption.png?raw=true" target="_blank"><b>as shown in the figure</b></a>.
+        <br>本图片采用作者独立研发的图片水印技术作为版权认证 <kbd>CC-BY-NC 4.0</kbd>（署名可任意转载），<a href="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/arch-encryption.png?raw=true" target="_blank"><b>点击查看</b></a>。
         </details>
     </p>
 </div>
@@ -131,7 +131,7 @@
 :label: `fig_book_org`
 
 <p align="center">
-  <img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/book_org.png" alt="book_org.png">
+  <img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/book_org.png" alt="book_org.png">
 </p>
 
 <br>
@@ -141,20 +141,20 @@
     <tr>
         <td colspan="1" rowspan="1" class="ai-notebooks-table-points ai-orange-link">
         <div class="mdl-cell mdl-cell--5-col mdl-cell--middle">
-            <div class="content">
-            <h2 style="text-align:center">每一小节都是可以运行的 <a href="https://mybinder.org/v2/gh/Charmve/computer-vision-in-action/main/notebooks/">Jupyter 记事本</a></h2>
-            <p>你可以自由修改代码和超参数来获取及时反馈，从而积累深度学习的实战经验。</p>
+            <div>
+                <h2>每一小节都是可以运行的 <a href="https://mybinder.org/v2/gh/Charmve/computer-vision-in-action/main/notebooks/">Jupyter 记事本</a></h2>
+                <p>你可以自由修改代码和超参数来获取及时反馈，从而积累深度学习的实战经验。</p>
             </div>
-            <div class="mdl-grid running" align="center" style="text-align:center">
+            <div class="mdl-grid running" style="text-align:center">
                 <div class="running-item">
                     <a href="https://charmve.github.io/computer-vision-in-action/#/README?id=🔎-如何食用">
-                    <img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/laptop_jupyter.png" width="60">
+                    <img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/laptop_jupyter.png" width="60">
                     <p>Run<br>locally</p>
                     </a>
                 </div>
                 <div class="running-item">
                     <a href="https://charmve.github.io/computer-vision-in-action/#/README?id=🔎-如何食用">
-                    <img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/colab.png" width="60">
+                    <img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/colab.png" width="60">
                     <p>Google<br>Colab</p>
                     </a>
                 </div>
@@ -163,7 +163,7 @@
         </td>
         <td>
             <div class="mdl-cell mdl-cell--7-col">
-                <img class="illustration_img" src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/frontpage/notebook.gif"/>
+                <img class="illustration_img" src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/frontpage/notebook.gif"/>
             </div>
         </td>
     </tr>
@@ -184,17 +184,17 @@
     <tr>
         <td>
             <div class="mdl-cell mdl-cell--4-col">
-                <img class="illustration_img" src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/frontpage/eq.jpg"></img>
+                <img class="illustration_img" src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/frontpage/eq.jpg"></img>
                 </div>
         </td>
         <td>
             <div class="mdl-cell mdl-cell--4-col">
-                <img class="illustration_img" src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/frontpage/figure.jpg"/>
+                <img class="illustration_img" src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/frontpage/figure.jpg"/>
                 </div>
         </td>
         <td>
             <div class="mdl-cell mdl-cell--4-col">
-                <img class="illustration_img" src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/frontpage/code.jpg"/>
+                <img class="illustration_img" src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/frontpage/code.jpg"/>
                 </div>
         </td>
     </tr>
@@ -207,7 +207,7 @@
 
 <br><br>
 
-<a href="https://github.com/Charmve/computer-vision-in-action#-以用促学先会后懂-"><img align="left" alt="Go for it!" src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/frontpage/2020-sponsors.svg" height="120" title="Do what you like, and do it best!"/></a>
+<a href="https://github.com/Charmve/computer-vision-in-action#-以用促学先会后懂-"><img align="left" alt="Go for it!" src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/frontpage/2020-sponsors.svg" height="120" title="Do what you like, and do it best!"/></a>
 
 ## &nbsp;&nbsp; Supporting
 
@@ -215,11 +215,11 @@
 
 <br>
 <p align="center">
-    <a href="https://charmve.github.io/L0CV-web/door/" target="_blank"><img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/frontpage/playagame.png" alt="Play a Game with Me" width="300" ></a>
+    <a href="https://charmve.github.io/L0CV-web/door/" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/frontpage/playagame.png" alt="Play a Game with Me" tittle="Play a Game with Me" width="300" ></a>
 </p>
 
 <div align="left">
-    <a href="https://opencollective.com/l0cv#sponsors" target="_blank"><img src="https://opencollective.com/l0cv/sponsors.svg?width=200"></a>
+    <a href="https://opencollective.com/l0cv#sponsors" target="_blank"><img src="https://opencollective.com/L0CV/sponsors.svg?width=200"></a>
 </div>
 
 <div id="donateBox" class="absolute center">
@@ -243,7 +243,7 @@
     <h4 align="center">Get MORE Exposure for Your Products</h4>
     <h3><em>Waiting for you!<br>虚席以待</em></h3>
     <p align="center" >
-        <a href="" target="_blank"><img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/OurSponsors.png" width=80% alt="Our Sponsors" title="Our Sponsors"></a>
+        <a href="" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/OurSponsors.png" width=80% alt="Our Sponsors" title="Our Sponsors"></a>
     </p>
 </div>
 
@@ -252,52 +252,42 @@
     <h2 align="center">Our Backers</h2>
     <h4 align="center"><em>Waiting for you, code with ❤️ ！</em></h4>
     <!--<h3><em>Waiting for you, Code with ❤️ ！</em></h3>-->
-    <a href="https://opencollective.com/l0cv#backers" target="_blank"><img src="https://opencollective.com/l0cv/backers.svg?width=200"></a>
+    <a href="https://opencollective.com/l0cv#backers" target="_blank"><img src="https://opencollective.com/L0CV/backers.svg?width=200"></a>
     <table align="center">
       <tbody>
-	 <th>
-	   <td>
-		   日期📅 
-	   </td>
-	   <td>
-		   老板👵 
-	   </td>
-	   <td>
-		   金额💰
-	   </td>
-	   <td>
-		   方式♥️
-	   </td>
-	   <td>
-		   留言:speech_balloon:
-	   </td>
-	 </th>
-	 <tr>
-           <td>
-		   01
-	   </td>
-           <td>
-	   </td>
-           <td>
-	   </td>
-           <td>
-	   </td>
-           <td>
-	   </td>
-           <td>
-	   </td>
-         </tr>
+        <th>
+        <td>日期📅 </td>
+        <td>老板👵 </td>
+        <td>金额💰</td>
+        <td>方式♥️</td>
+        <td>留言:speech_balloon:</td>
+        </th>
+        <tr>
+            <td>
+            01
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
       </tbody>
     </table>
     <br>
-    <sup>* 说明：因为微信和支付宝并不支持个人的接口调用，所以赞助名单上的信息都是我手动添加的，可能更新会存在延时。以防万一，您也可以发起 Issue 说明您对应的赞助，以及您希望得到的帮助，添加/解决后我会关闭对应 Issue。</sup>
+    <sup>* 说明：因为微信和支付宝并不支持个人的接口调用，所以赞助名单上的信息都是我手动添加的，可能更新会存在延时。<b>全部列表 <a href="charmve.github.io/sponsor.html" target="_blank">在这显示</a></b>。以防万一，您也可以发起 Issue 说明您对应的赞助，以及您希望得到的帮助，添加/解决后我会关闭对应 Issue。</sup>
 </div>
 
 <div class="sponsor-level">
     <h2 align="center">合作院校</h2>
     <h4 align="center">教材或参考书等其他合作项目</h4>
     <h3><em>期待你们的加入！</em></h3>
-    <a href="" target="_blank"><img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/CoUniversity.JPG" alt="Cooperation with University" title="Cooperation with University"></a>
+    <a href="" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/CoUniversity.JPG" alt="Cooperation with University" title="Cooperation with University"></a>
 </div>
 
 <br>
@@ -308,10 +298,10 @@
     <p class="footer-credits">
         Pictures in this page created by &nbsp;
         <a href="http://robbdesign.co">
-            <img class="footer-credit-logo" title="Robb Design Co." alt="Robb Design Co." src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/frontpage/robb-design.png" height="22"/>
+            <img class="footer-credit-logo" title="Robb Design Co." alt="Robb Design Co." src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/frontpage/robb-design.png" height="22"/>
         </a>
     </p>
     <p align="center">
-    <img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/frontpage/2020-footer.png" title="footer">
+    <img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/frontpage/2020-footer.png" title="footer">
     </p>
 </div>

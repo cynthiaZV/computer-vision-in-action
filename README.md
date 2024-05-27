@@ -1,10 +1,11 @@
 <p align="right">
 <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/visits/Charmve/computer-vision-in-action?color=black&logo=github">
+    <img src="https://badges.strrl.dev/visits/Charmve/computer-vision-in-action?color=black&logo=github">
+	<!---- comesfrom https://techsini.com/multi-mockup/index.php --->
 </a>
 </p>
 
-<!--
+<!-- maiweilab
 <div id="outputFigDisplay" class="fig">
     <pre id="taag_output_text" style="left;" class="flag" contenteditable="true">
     <code>
@@ -26,24 +27,28 @@
  
 ---
 -->
+
 <!--
 <table>
 <tr>
-<td>
+	<td>
+	## ✨ News! ✨
 
-## ✨ News! ✨
+	- <b>2020.07.12:</b> 📝  进阶篇 更新Transformer、强化学习、迁移学习、视频理解 !
+	- <b>2021.06.20:</b> 📘  在线电子书发布  ! <a href="https://charmve.github.io/computer-vision-in-action/" target="_blank"><img src="https://img.shields.io/badge/在线阅读-简体中文-000000.svg?style=flat-square&amp;logo=GitBook" alt="中文电子书"></a>
+	- <b>2020.06.10:</b> 💻  L0CV 项目主页发布 ！ <a href="https://charmve.github.io/L0CV-web/" target="_blank"><img src="https://img.shields.io/badge/项目主页-L0CV-000000.svg?style=flat-square&amp;logo=GitBook" alt="L0CV Website"></a>
 
-- <b>2020.07.12:</b> 📝  进阶篇 更新Transformer、强化学习、迁移学习、视频理解 !
-- <b>2021.06.20:</b> 📘  在线电子书发布  ! <a href="https://charmve.github.io/computer-vision-in-action/" target="_blank"><img src="https://img.shields.io/badge/在线阅读-简体中文-000000.svg?style=flat-square&amp;logo=GitBook" alt="中文电子书"></a>
-- <b>2020.06.10:</b> 💻  L0CV 项目主页发布 ！ <a href="https://charmve.github.io/L0CV-web/" target="_blank"><img src="https://img.shields.io/badge/项目主页-L0CV-000000.svg?style=flat-square&amp;logo=GitBook" alt="L0CV Website"></a>
-
-更多更新日志会同步到 [CHANGELOG](CHANGELOG.md)，持续更新中，感谢大家的支持与喜欢！
-
+	更多更新日志会同步到 [CHANGELOG](CHANGELOG.md)，持续更新中，感谢大家的支持与喜欢！
+	</td>
 </tr>
-</td>
 </table>
 -->
-<br>
+
+> "如果你只是看了这个项目的在线文档，那么你并没有利用好这个项目。太可惜！"
+
+<a href="https://charmve.github.io/computer-vision-in-action">
+    <img src="./res/ui/mutil-platform.png" width=="">
+</a>
 
 ## ✨ 以用促学，先会后懂 ✨
 ### L0CV <sup><a href="https://charmve.github.io/L0CV-web/">`🔊`</a></sup> &nbsp; 一种结合了代码、图示和HTML的在线学习媒介
@@ -69,12 +74,13 @@
 	<br><a href="https://mybinder.org/v2/gh/Charmve/computer-vision-in-action/main/notebooks/"><img src="https://mybinder.org/badge_logo.svg" alt="Binder"></a>
 	<a href="https://github.com/Charmve/computer-vision-in-action/tree/main/code/"><img src="https://img.shields.io/badge/Run%20on-Colab-000000.svg?logo=googlecolab&color=yellow" alt="Run on Colab"></a>
 	<a href="https://github.com/Charmve/computer-vision-in-action/tree/main/docker"><img src="https://img.shields.io/badge/Docker%20Hub-v1.0.1-000000.svg?logo=Docker&color=blue" alt="Docker"></a>
+  <a href="https://gitpod.io/#https://github.com/Charmve/computer-vision-in-action"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
   <a href="https://github.com/Charmve/computer-vision-in-action/edit/master/README.md"><img src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=social" alt="Stars"></a>
   <a href="https://github.com/Charmve/computer-vision-in-action/edit/master/README.md"><img src="https://img.shields.io/github/forks/Charmve/computer-vision-in-action?style=social" alt="Forks"></a>
 </p>
 
 <div align="center">
-	<img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/maiwei.png" width="200px" alt="logo:L0CV" title="有疑问，跑起来就会变成一朵花 ❀">
+	<img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/maiwei.png" width="200px" alt="logo:L0CV" title="有疑问，跑起来就会变成一朵花 ❀">
 </div>
 
 <br><br>
@@ -172,7 +178,7 @@
 > <h4>👉  在线阅读（优先更新实战篇和进阶篇）</h4>
 > - 地址：https://charmve.github.io/computer-vision-in-action/
 
-<details><summary>📘 详细目录</summary>
+<details><summary>📘 详细目录(点击展开)</summary>
 	
 <table align="center">
 <tr>
@@ -593,7 +599,7 @@
 <br>
 - <b>更新中 ...</b>
 
-<br>[收起](#目录)
+<br>[收起](#-本书目录)
 </tr>
 </td>
 </table>
@@ -812,13 +818,13 @@ import L0CV
             <div class="mdl-grid running" align="center" style="text-align:center">
                 <div class="running-item">
                     <a href="https://charmve.github.io/computer-vision-in-action/#/README?id=🔎-如何食用">
-                    <img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/laptop_jupyter.png" width="60">
+                    <img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/laptop_jupyter.png" width="60">
                     <p>Run<br>locally</p>
                     </a>
                 </div>
                 <div class="running-item">
                     <a href="https://charmve.github.io/computer-vision-in-action/#/README?id=🔎-如何食用">
-                    <img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/colab.png" width="60">
+                    <img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/colab.png" width="60">
                     <p>Google<br>Colab</p>
                     </a>
                 </div>
@@ -827,7 +833,7 @@ import L0CV
         </td>
         <td>
             <div class="mdl-cell mdl-cell--7-col">
-                <img class="illustration_img" src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/frontpage/notebook.gif"/>
+                <img class="illustration_img" src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/frontpage/notebook.gif"/>
             </div>
         </td>
     </tr>
@@ -848,17 +854,17 @@ import L0CV
     <tr>
         <td>
             <div class="mdl-cell mdl-cell--4-col">
-                <img class="illustration_img" src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/frontpage/eq.jpg"></img>
+                <img class="illustration_img" src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/frontpage/eq.jpg"></img>
                 </div>
         </td>
         <td>
             <div class="mdl-cell mdl-cell--4-col">
-                <img class="illustration_img" src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/frontpage/figure.jpg"/>
+                <img class="illustration_img" src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/frontpage/figure.jpg"/>
                 </div>
         </td>
         <td>
             <div class="mdl-cell mdl-cell--4-col">
-                <img class="illustration_img" src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/frontpage/code.jpg"/>
+                <img class="illustration_img" src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/frontpage/code.jpg"/>
                 </div>
         </td>
     </tr>
@@ -891,6 +897,17 @@ import L0CV
 
 [Index](#-以用促学先会后懂-)
 
+## 致谢
+<a href="https://maiweiai.github.io/"><img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/maiwei_ai.png" height="36" alt="迈微AI研习社" title="迈微AI研习社"> </a> <a href="https://madewithml.com/"><img src="https://madewithml.com/static/images/logo.png" height="30" alt="Made With ML" title="Made With ML"> </a> &nbsp;&nbsp; <a href="https://www.epubit.com/"><img src="https://cdn.ptpress.cn/pubcloud/3/app/0718A6B0/cover/20191204BD54009A.png" height="30" alt="异步社区" title="异步社区"> </a>  &nbsp;&nbsp; <a href="https://360.cn"><img src="https://p3.ssl.qhimg.com/t011e94f0b9ed8e66b0.png" height="36" alt="奇虎360" title="奇虎360"> </a>
+
+[Index](#-以用促学先会后懂-)
+
+## 参考文献
+
+感谢前人的杰出工作，我才得以写出此书。感谢 [<b>参考文献</b>](docs/REFERENCE.md) 中列出及未列出的，所有对此开源工作有帮助的前辈！
+
+[Index](#-以用促学先会后懂-)
+
 ## LICENSE
 
 <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank" style="display:inline-block"><img src="https://img.shields.io/badge/license-Apache%202.0-red?logo=apache" alt="Code License"></a> <a rel="DocLicense" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/docs%20license-CC%20BY--NC--SA%204.0-green?logo=creativecommons" title="CC BY--NC--SA 4.0"/></a>
@@ -916,18 +933,17 @@ import L0CV
 
 - <a href="https://segmentfault.com/t/L0CV" target="_blank" style="display:inline-block"><img src="https://img.shields.io/badge/微信-L0CV-green?logo=wechat" alt="Segment Fault"></a> 微信、知乎、微博开话题可以生成tag，如微信聊天、朋友圈加 ``#L0CV`` 可话题交流。
 
-[Index](#-以用促学先会后懂-)
-
-## 致谢
-<a href="https://maiweiai.github.io/"><img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/maiwei_ai.png" height="36" alt="迈微AI研习社" title="迈微AI研习社"> </a> <a href="https://madewithml.com/"><img src="https://madewithml.com/static/images/logo.png" height="30" alt="Made With ML" title="Made With ML"> </a> &nbsp;&nbsp; <a href="https://www.epubit.com/"><img src="https://cdn.ptpress.cn/pubcloud/3/app/0718A6B0/cover/20191204BD54009A.png" height="30" alt="异步社区" title="异步社区"> </a>  &nbsp;&nbsp; <a href="https://360.cn"><img src="https://p3.ssl.qhimg.com/t011e94f0b9ed8e66b0.png" height="36" alt="奇虎360" title="奇虎360"> </a>
+- L0CV 读者微信交流群 (加我微信Yida_Zhang2，备注：L0CV-高校/企业-称呼)
 
 [Index](#-以用促学先会后懂-)
 
-## 参考文献
 
-感谢前人的杰出工作，我才得以写出此书。感谢 [<b>参考文献</b>](docs/REFERENCE.md) 中列出及未列出的，所有对此开源工作有帮助的前辈！
+## 💖 Support this project
 
-[Index](#-以用促学先会后懂-)
+Donating to help me continue working on this project. I'm appreciate all you in [backer list](https://charmve.github.io/sponsor.html). <a href="https://charmve.github.io/sponsor.html"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Coffee&amp;logo=ko-fi&amp;style=social" alt="BuymeaCoffee"/></a>
+
+<a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="180" ></a>
+
 
 <!--
 
@@ -1006,7 +1022,7 @@ Use this bibtex to cite this repository:
 		<b>Awesome!</b>	
 		<a href="https://github.com/Charmve/computer-vision-in-action"><em>Charmve/computer-vision-in-action</em></a>
 		was created 2 months ago
-		and now has <b>1276</b> stars.
+		and now has <b>1546</b> stars.
   </p>
 </div>
 	
